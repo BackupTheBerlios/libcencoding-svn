@@ -1,0 +1,7 @@
+
+=== Version 0.0.1 ===
+	added support for:
+		o euc
+		o ucs4
+		o utf7
+		o utf8
